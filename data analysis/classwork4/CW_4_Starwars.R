@@ -54,4 +54,3 @@ starwars %>%
 starwars %>% 
   group_by(homeworld) %>%
   summarise(mean = mean(height, na.rm = TRUE))
-
