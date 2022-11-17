@@ -15,3 +15,4 @@ my_numeric_character <- as.numeric(my_character)
 
 # Пребразуйте сумму my_numeric и my_numeric_character и выведите на экран
 sum(my_character, my_numeric_character)
+
