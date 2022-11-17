@@ -23,4 +23,3 @@ my_logical <- FALSE
 
 # Проверьте тип данных my_numeric
 class(my_logical)
-
