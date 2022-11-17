@@ -58,3 +58,4 @@ head(wc2, 20)
 fr2 = round(wc2/length(words2)*100, 2)
 head(fr2, 20)
 
+
